@@ -65,6 +65,6 @@ The Laravel framework is open-sourced software licensed under the [MIT license](
 
 ## Setup
 Please run folloqwing commands to run 
-php artisan migrate
-php artisan db:seed --class=SizeSeeder
-php artisan db:seed --class=SizeSeeder
+`php artisan migrate`
+`php artisan db:seed --class=SizeSeeder`
+`php artisan db:seed --class=SizeSeeder`
